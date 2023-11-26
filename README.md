@@ -38,7 +38,7 @@
    - kubernetes
 
 🌐 Connect with Me:
-   - LinkedIn: www.linkedin.com/in/himanshurw
-   - Insta: https://www.instagram.com/himanshu.rw/
+   - <a href="www.linkedin.com/in/himanshurw/">LinkedIn</a>
+   - <a href="https://www.instagram.com/himanshu.rw/">Instagram</a>
 
 💡 Open to collaboration and always excited about new challenges. Let's innovate and build something awesome together! 🌈✨
