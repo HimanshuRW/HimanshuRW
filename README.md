@@ -3,7 +3,7 @@
 ## About Me👋
 I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a passionate MERN stack developer with a flair for crafting seamless web experiences. Adept at leveraging MERN, Deno, Ts, kubernetes.... to build robust and innovative applications.
 ## My Learnings and Projects 🧩
-- ### FrontEnd <img widht="20px" src="https://www.notion.so/icons/code_pink.svg?mode=light/" alt="html">
+- ### FrontEnd <img widht="2px" src="https://www.notion.so/icons/code_pink.svg?mode=light/" alt="html">
   - <a href="https://www.youtube.com/">Block Tower Game</a> A simple game where you have to make thw tower as high as you can !
   - <a href="https://www.youtube.com/">Ball Shooting Game</a> A fun simple ball shooting game made purely in html canvas and js (more fun to play im phone
   - <a href="https://www.youtube.com/">Gravity Simulator</a> A sandbox where you can set particles free under gravity and you can set the masses and initial positions and velocities
