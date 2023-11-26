@@ -1,23 +1,50 @@
-🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
+### 🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
 
-👋 Hey there! I'm <Himanshu>, a passionate MERN stack developer and would love to craft some tech together !!
+## 👋 Hey there! I'm <Himanshu>, a passionate MERN stack developer and would love to craft some tech together !!
 
-🔧 Tech Stack:
-   - Frontend: React.js, HTML, CSS, JavaScript
-   - Backend: Node.js, Express.js
-   - Database: MongoDB
-   - Deployment: AWS, Heroku
+## My Learnings and Projects
+<div>
+     ### FrontEnd <a href="https://iconscout.com/icons/display" class="text-underline font-size-sm" target="_blank">Display</a> by <a href="https://iconscout.com/contributors/promotion-king" class="text-underline font-size-sm" target="_blank">Rank Sol</a>
+  <div style="float: left; width: 50%;">
+  - <a href="https://www.youtube.com/">Block Tower Game</a> A simple game where you have to make thw tower as high as you can !
+  - <a href="https://www.youtube.com/">Ball Shooting Game</a> A fun simple ball shooting game made purely in html canvas and js (more fun to play im phone)
+  </div>
 
-🌟 What I Do:
-   - Transforming concepts into clean and scalable code.
-   - Building responsive and dynamic user interfaces.
-   - Crafting robust and performant server-side applications.
-   - Continuous learner, always exploring new technologies and best practices.
+  <div style="float: right; width: 50%;">
+   - <a href="https://www.youtube.com/">Gravity Simulator</a> A sandbox where you can set particles free under gravity and you can set the masses and initial positions and velocities
+  - <a href="https://www.youtube.com/">Pendulum Simulator</a> Simluate the pendulum the using differential equations and damping.
+  </div>
+</div>
 
-🚀 Projects:
-   - [Project 1 Name] - Brief description and link
-   - [Project 2 Name] - Brief description and link
-   - [Project 3 Name] - Brief description and link
+   - ### Backend 🚀
+   - <a href="https://white-board-8o63.onrender.com/">White Board</a>Multiple people can work on it together from different devices... built on socket.io
+   - <a href="https://my-zoom-clone.onrender.com">Zoom Clone</a>a zoom clone for multi user video calls ... built on socket.io and node.js
+   - <a href="https://racing-game-54hg.onrender.com/">Racing Game</a> a simple 2-d multiplayer car racing game .. built on socket.io
+   - <a href="https://www.youtube.com/">Attendence Bot</a> a simple bot who use to attend online classes while i was sleeping.. all for attendence.. built on puppeteer.
+
+   - ### C Programming 🚀
+   - <a href="https://white-board-8o63.onrender.com/">Snake Game</a> A snake game played on terminal. Also maintain old scores of players as well as a leaderboard
+
+## Skills
+### Languages
+   - C <img width="16px" src="https://icons8.com/icon/shQTXiDQiQVR/c-programming" alt="Image 1">
+   - Python
+   - JavaScipt (addicted to it 💙)
+   - TypeScript (loving it too)
+### Frameworks and Libraries
+   - Node.js
+   - Deno
+   - Socket.io
+   - Express
+   - Next.js
+   - Reactjs
+   - React Native
+   - Tailwind CSS
+
+### Databases and Cloud
+   - MongoDB
+   - Docker
+   - kubernetes
 
 🌐 Connect with Me:
    - LinkedIn: www.linkedin.com/in/himanshurw
