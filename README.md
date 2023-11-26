@@ -4,7 +4,7 @@
 
 ## My Learnings and Projects
 <div>
-### FrontEnd href="https://iconscout.com/contributors/promotion-king" class="text-underline font-size-sm" target="_blank">Rank Sol</a>
+### FrontEnd
   <div style="float: left; width: 50%;">
   - <a href="https://www.youtube.com/">Block Tower Game</a> A simple game where you have to make thw tower as high as you can !
   - <a href="https://www.youtube.com/">Ball Shooting Game</a> A fun simple ball shooting game made purely in html canvas and js (more fun to play im phone)
