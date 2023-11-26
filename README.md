@@ -1,7 +1,7 @@
 ### 🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
 
-## 👋 Hey there! I'm Himanshu, a passionate MERN stack developer and would love to craft some tech together !!
-
+## About Me👋
+I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a passionate MERN stack developer with a flair for crafting seamless web experiences. Adept at leveraging MERN, Deno, Ts, kubernetes.... to build robust and innovative applications.
 ## My Learnings and Projects
 - ### FrontEnd
   - <a href="https://www.youtube.com/">Block Tower Game</a> A simple game where you have to make thw tower as high as you can !
