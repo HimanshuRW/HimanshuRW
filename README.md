@@ -18,7 +18,7 @@
 
 ## Skills
 ### Languages
-   - C <img width="16px" src="https://icons8.com/icon/shQTXiDQiQVR/c-programming" alt="Image 1">
+   - C
    - Python
    - JavaScipt (addicted to it 💙)
    - TypeScript (loving it too)
