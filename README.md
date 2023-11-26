@@ -23,7 +23,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
    - TypeScript <img width="15px" src="https://i.postimg.cc/qMDgHvFx/download-1-removebg-preview.png/"> (loving it too)
 ### Frameworks and Libraries
    - Node.js <img width="25px" src="https://i.postimg.cc/8CPyJw4S/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png/"> 
-   - Deno <img width="20px" src="https://i.postimg.cc/cHf8sG34/download-2-removebg-preview.png/"> 
+   - Deno <img width="20px" src="https://i.postimg.cc/N0drFkJZ/image-1.png/"> 
    - Socket.io <img width="20px" src="https://i.postimg.cc/dVJ6pnzy/58482deccef1014c0b5e4a64.png/"> 
    - Express <img width="25px" src="https://i.postimg.cc/J0cJQC7d/api-interface.png/"> 
    - Next.js <img width="15px" src="https://i.postimg.cc/0NDBqrV6/image.png/"> 
