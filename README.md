@@ -1,6 +1,6 @@
 ### 🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
 
-## 👋 Hey there! I'm <Himanshu>, a passionate MERN stack developer and would love to craft some tech together !!
+## 👋 Hey there! I'm Himanshu, a passionate MERN stack developer and would love to craft some tech together !!
 
 ## My Learnings and Projects
 - ### FrontEnd
