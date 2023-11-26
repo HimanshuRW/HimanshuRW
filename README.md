@@ -17,24 +17,24 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
 
 ## Skills
 ### Languages
-   - C <img width="19px" style="transform : translateY(100%);" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
+   - C <img width="25px" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
    - Python <img width="15px" src="https://i.postimg.cc/d1w8X07j/pythoni.png/">
-   - JavaScipt (addicted to it 💙)
-   - TypeScript (loving it too)
+   - JavaScipt <img width="15px" src="https://i.postimg.cc/TYwBFdgx/download.png/"> (addicted to it 💙)
+   - TypeScript <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> (loving it too)
 ### Frameworks and Libraries
-   - Node.js
-   - Deno
-   - Socket.io
-   - Express
-   - Next.js
-   - Reactjs
-   - React Native
-   - Tailwind CSS
+   - Node.js <img width="15px" src="https://i.postimg.cc/8CPyJw4S/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png/"> 
+   - Deno <img width="15px" src="https://i.postimg.cc/QxG0kjmS/download-2.png/"> 
+   - Socket.io <img width="15px" src="https://i.postimg.cc/dVJ6pnzy/58482deccef1014c0b5e4a64.png/"> 
+   - Express <img width="15px" src="https://i.postimg.cc/J0cJQC7d/api-interface.png/"> 
+   - Next.js <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
+   - Reactjs <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
+   - React Native <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
+   - Tailwind CSS <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
 
 ### Databases and Cloud
-   - MongoDB
-   - Docker
-   - kubernetes
+   - MongoDB <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
+   - Docker <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
+   - kubernetes <img width="15px" src="https://i.postimg.cc/XJ4z844T/download-1.png/"> 
 
 🌐 Connect with Me:
    - <a href="www.linkedin.com/in/himanshurw/">LinkedIn</a>
