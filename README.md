@@ -22,19 +22,19 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
    - JavaScipt <img width="15px" src="https://i.postimg.cc/TYwBFdgx/download.png/"> (addicted to it 💙)
    - TypeScript <img width="15px" src="https://i.postimg.cc/qMDgHvFx/download-1-removebg-preview.png/"> (loving it too)
 ### Frameworks and Libraries
-   - Node.js <img width="15px" src="https://i.postimg.cc/8CPyJw4S/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png/"> 
-   - Deno <img width="15px" src="https://i.postimg.cc/cHf8sG34/download-2-removebg-preview.png/"> 
-   - Socket.io <img width="15px" src="https://i.postimg.cc/dVJ6pnzy/58482deccef1014c0b5e4a64.png/"> 
+   - Node.js <img width="25px" src="https://i.postimg.cc/8CPyJw4S/png-transparent-js-logo-node-logos-and-brands-icon-removebg-preview.png/"> 
+   - Deno <img width="20px" src="https://i.postimg.cc/cHf8sG34/download-2-removebg-preview.png/"> 
+   - Socket.io <img width="20px" src="https://i.postimg.cc/dVJ6pnzy/58482deccef1014c0b5e4a64.png/"> 
    - Express <img width="25px" src="https://i.postimg.cc/J0cJQC7d/api-interface.png/"> 
    - Next.js <img width="15px" src="https://i.postimg.cc/YqP2yy4X/png-transparent-next-js-hd-logo-removebg-preview.png/"> 
-   - Reactjs <img width="15px" src="https://i.postimg.cc/Pf3dPFMt/react1.png/"> 
-   - React Native <img width="15px" src="https://i.postimg.cc/RZGkDWbv/phone-webp-removebg-preview.png/"> 
-   - Tailwind CSS <img width="15px" src="https://i.postimg.cc/9QNx9Znw/tailwind-css3232-logowik-com-removebg-preview.png/"> 
+   - Reactjs <img width="25px" src="https://i.postimg.cc/Pf3dPFMt/react1.png/"> 
+   - React Native <img width="18px" src="https://i.postimg.cc/RZGkDWbv/phone-webp-removebg-preview.png/"> 
+   - Tailwind CSS <img width="19px" src="https://i.postimg.cc/9QNx9Znw/tailwind-css3232-logowik-com-removebg-preview.png/"> 
 
 ### Databases and Cloud
-   - MongoDB <img width="15px" src="https://i.postimg.cc/FFD01mq7/mongodb-logo-icon-170943.png/"> 
-   - Docker <img width="15px" src="https://i.postimg.cc/4NYHdcVS/docker.png/"> 
-   - kubernetes <img width="15px" src="https://i.postimg.cc/N0dQmJw7/Kubernetes-logo-without-workmark-svg.png/"> 
+   - MongoDB <img width="20px" src="https://i.postimg.cc/FFD01mq7/mongodb-logo-icon-170943.png/"> 
+   - Docker <img width="25px" src="https://i.postimg.cc/4NYHdcVS/docker.png/"> 
+   - kubernetes <img width="25px" src="https://i.postimg.cc/N0dQmJw7/Kubernetes-logo-without-workmark-svg.png/"> 
 
 🌐 Connect with Me:
    - <a href="www.linkedin.com/in/himanshurw/">LinkedIn</a>
