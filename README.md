@@ -17,7 +17,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
 
 ## Skills
 ### Languages
-   - C <img width="15px" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
+   - C <img width="19px" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
    - Python <img width="15px" src="https://i.postimg.cc/d1w8X07j/pythoni.png/">
    - JavaScipt (addicted to it 💙)
    - TypeScript (loving it too)
