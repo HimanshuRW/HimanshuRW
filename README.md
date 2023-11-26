@@ -13,7 +13,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
   - <a href="https://my-zoom-clone.onrender.com">Zoom Clone</a> a zoom clone for multi user video calls ... built on socket.io and node.js
   - <a href="https://racing-game-54hg.onrender.com/">Racing Game</a> a simple 2-d multiplayer car racing game .. built on socket.io
   - <a href="https://www.youtube.com/">Attendence Bot</a> a simple bot who use to attend online classes while i was sleeping.. all for attendence.. built on puppeteer.
-- ### C Programming <img width="35px" src="https://www.notion.so/icons/gears_red.svg?mode=light/" alt="gear" >
+- ### C Programming <img width="40px" src="https://www.notion.so/icons/gears_red.svg?mode=light/" alt="gear" >
   - <a href="https://white-board-8o63.onrender.com/">Snake Game</a> A snake game played on terminal. Also maintain old scores of players as well as a leaderboard
 
 ## Skills
