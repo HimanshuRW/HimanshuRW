@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @HimanshuRW
-- 👀 I’m interested in web and app development by MERN stack
-- 🌱 I’m currently learning Node Js
-- 💞️ I’m looking to collaborate on Mern stack projects
-- 📫 I would be happy to meet you, so you can message me on my email -> himanshurw56@gmail.com
+🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
 
-<!---
-HimanshuRW/HimanshuRW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hey there! I'm <Himanshu>, a passionate MERN stack developer and would love to craft some tech together !!
+
+🔧 Tech Stack:
+   - Frontend: React.js, HTML, CSS, JavaScript
+   - Backend: Node.js, Express.js
+   - Database: MongoDB
+   - Deployment: AWS, Heroku
+
+🌟 What I Do:
+   - Transforming concepts into clean and scalable code.
+   - Building responsive and dynamic user interfaces.
+   - Crafting robust and performant server-side applications.
+   - Continuous learner, always exploring new technologies and best practices.
+
+🚀 Projects:
+   - [Project 1 Name] - Brief description and link
+   - [Project 2 Name] - Brief description and link
+   - [Project 3 Name] - Brief description and link
+
+🌐 Connect with Me:
+   - LinkedIn: www.linkedin.com/in/himanshurw
+   - Insta: https://www.instagram.com/himanshu.rw/
+
+💡 Open to collaboration and always excited about new challenges. Let's innovate and build something awesome together! 🌈✨
