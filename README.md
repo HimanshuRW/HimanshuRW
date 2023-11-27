@@ -15,7 +15,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
 - ### C Programming <img width="33px" src="https://www.notion.so/icons/gears_red.svg?mode=light/" alt="gear" >
   - <a href="https://github.com/HimanshuRW/SDF-project/">Snake Game</a> A snake game played on terminal. Also maintain old scores of players as well as a leaderboard
 
-## Skills
+## Skills 🛠️
 ### Languages
    - C <img width="25px" src="https://i.postimg.cc/QtYHbNct/png-clipart-c-c-removebg-preview.png/">
    - Python <img width="15px" src="https://i.postimg.cc/d1w8X07j/pythoni.png/">
