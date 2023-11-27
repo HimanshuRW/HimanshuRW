@@ -37,7 +37,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
    - Docker <img width="25px" src="https://i.postimg.cc/4NYHdcVS/docker.png/"> 
    - kubernetes <img width="25px" src="https://i.postimg.cc/N0dQmJw7/Kubernetes-logo-without-workmark-svg.png/"> 
 
-🌐 Connect with Me:
+### 🌐 Connect with Me:
    - <a href="www.linkedin.com/in/himanshurw/">LinkedIn</a>
    - <a href="https://www.instagram.com/himanshu.rw/">Instagram</a>
 
