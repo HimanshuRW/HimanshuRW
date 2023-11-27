@@ -33,7 +33,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
 
 ### Databases and Cloud
    - MongoDB <img width="20px" src="https://i.postimg.cc/FFD01mq7/mongodb-logo-icon-170943.png/">
-   - DGraph <img width="20px" src="https://i.postimg.cc/DzHkwNGS/dgraph-logo-FC04-AA7851-seeklogo-com-removebg-preview.png/"> with GraphQL <img width="20px" src="https://i.postimg.cc/yYmVr7Zv/graphql-removebg-preview.png/">
+   - DGraph <img width="20px" src="https://i.postimg.cc/DzHkwNGS/dgraph-logo-FC04-AA7851-seeklogo-com-removebg-preview.png/"> with GraphQL <img width="25px" src="https://i.postimg.cc/yYmVr7Zv/graphql-removebg-preview.png/">
    - Docker <img width="25px" src="https://i.postimg.cc/4NYHdcVS/docker.png/"> 
    - kubernetes <img width="25px" src="https://i.postimg.cc/N0dQmJw7/Kubernetes-logo-without-workmark-svg.png/"> 
 
