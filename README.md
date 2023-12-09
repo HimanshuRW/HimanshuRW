@@ -10,7 +10,7 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
 - ### Backend 🚀
   - <a href="https://github.com/HimanshuRW/White-Board/">White Board</a> Multiple people can work on it together from different devices... built on socket.io
   - <a href="https://github.com/HimanshuRW/Zoom-final/">Zoom Clone</a> a zoom clone for multi user video calls ... built on socket.io and node.js
-  - <a href="https://github.com/HimanshuRW/Racing_game/">Racing Game</a> a simple 2-d multiplayer car racing game .. built on socket.io
+  - <a href="https://github.com/HimanshuRW/Racing_game/">Racing Game</a> a simple 2-d multiplayer real time car racing game .. built on socket.io
   - <a href="https://github.com/HimanshuRW/Attendecne-App/">Attendence Bot</a> a simple bot who use to attend online classes while i was sleeping.. all for attendence.. built on puppeteer.
 - ### C Programming <img width="33px" src="https://www.notion.so/icons/gears_red.svg?mode=light/" alt="gear" >
   - <a href="https://github.com/HimanshuRW/SDF-project/">Snake Game</a> A snake game played on terminal. Also maintain old scores of players as well as a leaderboard
