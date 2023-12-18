@@ -1,4 +1,4 @@
-### 🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan
+### 🚀 Full-Stack Developer | MERN Enthusiast | Code Artisan 
 
 ## About Me👋
 I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a passionate MERN stack developer with a flair for crafting seamless web experiences. Adept at leveraging MERN, Deno, Ts, kubernetes.... to build robust and innovative applications.
