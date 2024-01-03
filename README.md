@@ -41,4 +41,4 @@ I am Himanshu Rawat. A 19 year old enthusiastic developer from India. I am a pas
    - <a href="www.linkedin.com/in/himanshurw/">LinkedIn</a>
    - <a href="https://www.instagram.com/himanshu.rw/">Instagram</a>
 
-💡 Open to collaboration and always excited about new challenges. Let's innovate and build something awesome together! 🌈✨
+💡 Open to collaboration and always excited about new challenges. Let's innovate and build something awesome together! 🌈✨ 
